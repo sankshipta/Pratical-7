@@ -1,0 +1,10 @@
+body{
+text-align: center;
+font-family:'Times New Roman', Times, serif ;
+background-image: radial-gradient(circle,red,yellow,orange);
+}
+div{
+border:1px solid cyan;
+width:300px;
+margin-left:200px;
+}
